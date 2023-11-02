@@ -1,2 +1,3 @@
 # aprender-
 tutorial como usar o git pc+git
+e ainda assim... seguimos...
